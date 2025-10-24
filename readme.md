@@ -16,13 +16,6 @@ Built purely in **one file** – clean, fast, and beautiful ⚡
 
 ---
 
-## 🖼️ Preview
-
-*(You can add a screenshot later)*  
-> Example:  
-> ![Tic Tac Toe Preview](screenshot.png)
-
----
 
 ## 🧩 Tech Stack
 
@@ -103,4 +96,5 @@ Status Label	Gold	#FFD700
 ## ⭐ Like this project?
 
 Give it a ⭐ on GitHub to show support!  
+
 Every star helps motivate further cool Java creations ✨
